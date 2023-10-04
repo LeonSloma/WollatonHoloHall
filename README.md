@@ -1,4 +1,4 @@
-# WollatonHoloHall
+# Wollaton HoloHall
 Virtual reality tour of the Wollaton Hall natural history museum, with a timed scavenger hunt minigame. 
 
 Created in Unity for the Meta Quest 2 virtual reality headset.
